@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(){
+    int idade; //declarando a váriavel
+    float salário;
+    char bloco;
+    idade = 18; //atribui um valor
+    salário = 12.500,90; 
+    printf("idade: %i\n",idade);
+    printf("salário: %f\n",salário);
+    return 0;
+
+}//main
